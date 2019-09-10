@@ -1,0 +1,23 @@
+{
+  "name": "quintonfriend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomK1429/quintonfriend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThomK1429/quintonfriend/issues"
+  },
+  "homepage": "https://github.com/ThomK1429/quintonfriend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
